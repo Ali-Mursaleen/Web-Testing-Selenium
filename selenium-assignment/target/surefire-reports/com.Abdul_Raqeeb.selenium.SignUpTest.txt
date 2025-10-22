@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.Abdul_Raqeeb.selenium.SignUpTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.006 s - in com.Abdul_Raqeeb.selenium.SignUpTest
